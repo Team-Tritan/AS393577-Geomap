@@ -1,7 +1,13 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Tritan ISP (AS393577)
 23.142.248.0/24,US,US-CA,San Francisco,
-2602:291::/48,US,US-CA,San Francisco,
+2602:291::/40,US,US-CA,San Francisco,
+2602:291:1::/48,US,US-CA,San Francisco,
+2602:291:66::/48,US,US-CA,San Francisco,
+2602:291:69::/48,US,US-CA,San Francisco,
+2602:291:77::/48,US,US-CA,San Francisco,
+2602:291:99::/48,US,US-CA,San Francisco,
+2602:291:CA::/48,US,US-CA,San Francisco,
 2a06:a005:15d8::/48,US,US-CA,San Francisco,
 2a12:dd47:d100::/40,US,US-CA,San Francisco,
 2a05:dfc1:4e00::/40,US,US-CA,San Francisco,
