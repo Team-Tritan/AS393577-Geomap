@@ -1,5 +1,15 @@
+###############################################################################
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Tritan Internet LLC (AS393577, AS57308)
+###############################################################################
+# Specific Routes
+23.142.248.2/32,US,US-WA,Seattle,98101
+23.142.248.3/32,NL,NL-AMS
+23.142.248.4/32,US,US-MO,North Kansas City,64116
+23.142.248.5/32,US,US-AZ,Phoenix,85001
+23.142.248.6/32,US,US-FL,Tampa,33602
+23.142.248.33/32,US,US-FL,Tampa,33602
+# Entire Subnets
 23.142.248.0/24,US,US-MO,North Kansas City,64116
 2602:291::/40,US,US-MO,North Kansas City,64116
 2602:291:1::/48,US,US-MO,North Kansas City,64116
