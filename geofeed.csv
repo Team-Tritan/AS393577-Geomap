@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Tritan ISP (AS393577)
+# Tritan Internet LLC (AS393577, AS57308)
 23.142.248.0/24,US,US-MO,North Kansas City,64116
 2602:291::/40,US,US-MO,North Kansas City,64116
 2602:291:1::/48,US,US-MO,North Kansas City,64116
