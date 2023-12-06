@@ -4,14 +4,17 @@
 ###############################################################################
 # Specific Routes
 23.142.248.2/32,US,US-WA,Seattle,98101
-23.142.248.3/32,NL,NL-AMS
+23.142.248.3/32,NL,NL-OV,Nederland
 23.142.248.4/32,US,US-MO,North Kansas City,64116
 23.142.248.5/32,US,US-AZ,Phoenix,85001
 23.142.248.7/32,US,US-FL,Tampa,33602
+23.142.248.8/32,US,US-CA,Fremont,94536
+23.142.248.9/32,CA,CA-ON,Ontario
+23.142.248.33/32,US,US-FL,Tampa,33602
+23.142.248.129/32,US,US-FL,Tampa,33602
+23.142.248.130/32,US,US-FL,Tampa,33602
 # Entire Subnets
 23.142.248.0/24,US,US-MO,North Kansas City,64116
-208.36.225.0/24,US,US-FL,Tampa,33602
-208.36.224.0/21,US,US-MO,North Kansas City,64116
 2602:291::/40,US,US-MO,North Kansas City,64116
 2602:291:1::/48,US,US-MO,North Kansas City,64116
 2602:291:66::/48,US,US-MO,North Kansas City,64116
