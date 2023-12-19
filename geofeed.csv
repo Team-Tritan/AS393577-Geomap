@@ -16,6 +16,7 @@
 23.142.248.130/32,US,US-FL,Tampa,33602
 # Entire Subnets
 23.142.248.0/24,US,US-MO,North Kansas City,64116
+23.168.24.0/24,US,US-MO,North Kansas City,64116
 2602:291::/40,US,US-MO,North Kansas City,64116
 2602:291:1::/48,US,US-MO,North Kansas City,64116
 2602:291:66::/48,US,US-MO,North Kansas City,64116
