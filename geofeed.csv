@@ -2,7 +2,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Tritan Internet LLC (AS393577, AS57308)
 ###############################################################################
-
 # Specific Routes
 23.142.248.2/32,US,US-WA,Seattle,98101
 23.142.248.5/32,US,US-AZ,Phoenix,85001
